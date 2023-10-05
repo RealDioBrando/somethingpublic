@@ -5,4 +5,4 @@
 ^https:\/\/mihoyo.com https://ps.yuuki.me header
 
 [MITM]
-hostname = %APPEND% .hoyoverse.com,.mihoyo.com
+hostname = *.hoyoverse.com, *.mihoyo.com
